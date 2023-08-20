@@ -1,2 +1,2 @@
 # wordcount.c
-Thevalid input sentence holds words beginning with uppercase 
+The valid input sentence holds words beginning with uppercase 
